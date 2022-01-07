@@ -1,0 +1,13 @@
+name: cv_proj4
+channels:
+- defaults
+- pytorch
+dependencies:
+- jupyter
+- matplotlib
+- pip
+- pytest
+- python=3.6
+- pytorch==1.4.0
+- torchvision
+- pyyaml

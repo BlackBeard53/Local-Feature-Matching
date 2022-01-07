@@ -1,0 +1,5 @@
+required_directories:
+  - cv_proj4_code
+optional_directories:
+  - additional_data
+
