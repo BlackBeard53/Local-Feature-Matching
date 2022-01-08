@@ -7,4 +7,4 @@ This project uses Harris Corner Detector and SIFT feature descriptor to match fe
 Figure below shows result of a local feature matching.
 
 <img src="results/vis_circles.jpg" alt="lines">  
-<img src="results/vis_line.jpg" alt="lines">
+<img src="results/vis_lines.jpg" alt="lines">
